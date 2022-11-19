@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "mywebsite"
+  title: "Raghul Senthil Selvan Portfolio"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: LinkdIn
+        href: https://www.linkedin.com/in/raghuls/
 format:
   html:
     theme: cosmo
